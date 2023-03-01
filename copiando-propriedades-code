@@ -1,8 +1,8 @@
-var carro1 = {
+let carro1 = {
     cor: 'vermelho'
 }
 
-var carro2 = {
+let carro2 = {
 
 }
 
