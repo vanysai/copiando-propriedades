@@ -1,0 +1,10 @@
+var carro1 = {
+    cor: 'vermelho'
+}
+
+var carro2 = {
+
+}
+
+Object.assign(carro2, carro1);
+console.log(carro2);
